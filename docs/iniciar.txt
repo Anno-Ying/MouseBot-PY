@@ -1,0 +1,7 @@
+Inicie utilizando o VSCode ou o proprio terminal:
+
+python mousebot.py
+
+Tutorias aqui:
+
+https://www.youtube.com/watch?v=bnH3oqSRLYM&feature=youtu.be
