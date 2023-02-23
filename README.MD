@@ -1,14 +1,6 @@
 <h2 align="center"> Mouse Mover </h2>
 <h2 align="center"> ━━━━━━  ❖  ━━━━━━ </h2> 
 
-<div align="center">
-   <p></p>
-   <a href="">
-      <img src="https://img.shields.io/github/repo-size/ravenastar-js/raveninha-bot?color=%23ee6a70&labelColor=%23101415&style=for-the-badge">
-   </a>
-   <br> 
-</div>
-
 <br>
 
 > **Note**<br>
